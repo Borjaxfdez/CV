@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(), "DATOS", Toast.LENGTH_SHORT).show();
         Notification.Builder builder = new Notification.Builder(getApplicationContext());
         builder.setContentTitle("ESTUDIOS")
-                .setContentText("dentro")
+                .setContentText("dentroooooo")
                 .setSmallIcon(R.drawable.iconsuper)
                 .setAutoCancel(true);
         Notification n = builder.build();
